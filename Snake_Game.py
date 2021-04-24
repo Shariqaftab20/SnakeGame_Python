@@ -3,7 +3,7 @@ pygame.init()
 
 #color
 white=(255,255,255)
-red=(255,0,0)
+red=(255,255,0)
 black=(0,0,0)
 
 #screen dimention
